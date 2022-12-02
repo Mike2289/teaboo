@@ -273,7 +273,7 @@ p {
 }
 
 .navbar {
-    float: right;
+    float: center;
     border: 0px solid #fff;
     min-height: 40px;
     margin-bottom: 0px;
@@ -285,7 +285,7 @@ p {
 }
 
 .navStyle {
-    float: right;
+    float: center;
 }
 
 .navStyle ul {
